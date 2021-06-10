@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Not Loading data - is it sensitive?
-data/
+data/*
