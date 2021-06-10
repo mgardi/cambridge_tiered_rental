@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Mac stuff
+.DS_Store
+
 # Not Loading data - is it sensitive?
 data/*
